@@ -17,6 +17,14 @@ En mi repositorio, descubrirás proyectos que son como experimentos científicos
 - 🏊‍♂️ Amante de la natación y el desarrollo de software
 - 📚 Siempre aprendiendo y compartiendo conocimientos
 
+  ### Conéctate conmigo 🌐
+
+Puedes encontrarme en las redes sociales y ponerte en contacto conmigo:
+
+📧 [Correo Electrónico](mailto:jasblandonm@gmail.com)
+👔 [LinkedIn](https://www.linkedin.com/in/jsblandónmontoya)
+
+
 ¡Así que, únete a mi aventura tecnológica y deportiva! ¡Vamos a hacer magia
 
 - 🔭 I’m currently working on ...
