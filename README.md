@@ -17,7 +17,12 @@ En mi repositorio, descubrirás proyectos que son como experimentos científicos
 - 🏊‍♂️ Amante de la natación y el desarrollo de software
 - 📚 Siempre aprendiendo y compartiendo conocimientos
 
-  ### Conéctate conmigo 🌐
+### Herramientas en las que me destaco:
+![Javascript](https://img.shields.io/badge/Lenguajes-javascript-yellow)
+![React](https://img.shields.io/badge/Framework-react-blue)
+![Jira](https://img.shields.io/badge/Agile-Jira-green)
+
+### Conéctate conmigo 🌐
 
 Puedes encontrarme en las redes sociales y ponerte en contacto conmigo:
 
