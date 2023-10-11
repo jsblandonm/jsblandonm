@@ -24,6 +24,8 @@ Puedes encontrarme en las redes sociales y ponerte en contacto conmigo:
 📧 [Correo Electrónico](mailto:jasblandonm@gmail.com)
 👔 [LinkedIn](https://www.linkedin.com/in/jsblandónmontoya)
 
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jsblandonm&show_icons=true&theme=gruvbox)
+
 
 ¡Así que, únete a mi aventura tecnológica y deportiva! ¡Vamos a hacer magia
 
